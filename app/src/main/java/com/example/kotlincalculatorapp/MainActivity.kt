@@ -21,4 +21,5 @@ class MainActivity : AppCompatActivity() {
 
     fun allClearAction(view: View) {}
     fun backSpaceAction(view: View) {}
+    fun equalsAction(view: View) {}
 }
